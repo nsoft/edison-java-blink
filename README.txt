@@ -1,3 +1,5 @@
+See also https://github.com/nsoft/edisonj for a library to do GPIO with java on edison
+
 A super quick and dirty blink program for Intel Edison on mini-breakout board. 
 This will oscillate the J19-6 pin, you can test this with your volt meter, 
 or wire up a circuit that lights an LED on when it sees 1.8v and then attach 
